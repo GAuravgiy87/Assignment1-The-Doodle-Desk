@@ -1,3 +1,5 @@
+Assignment for my internship The Doodle Desk
+Front End Development internship
 # GetWell.ai - Modern Healthcare SaaS Platform
 
 A state-of-the-art healthcare technology platform designed to improve patient outcomes and operational efficiency for healthcare organizations. This repository contains the complete source code for the GetWell.ai marketing website.
@@ -5,6 +7,13 @@ A state-of-the-art healthcare technology platform designed to improve patient ou
 ## Project Overview
 
 GetWell.ai is a modern, responsive website built to showcase a healthcare SaaS product that leverages artificial intelligence and machine learning to transform healthcare delivery. The platform offers intelligent analytics, predictive diagnostics, and enhanced patient engagement tools for healthcare providers.
+
+
+https://www.youtube.com/watch?v=X3HybrK-AFc
+
+![Screenshot 2025-04-26 130937](https://github.com/user-attachments/assets/8c06388c-dd3b-4b45-beb8-78ccade9dab7)
+
+![Screenshot 2025-04-26 130921](https://github.com/user-attachments/assets/15aa28d3-a6f9-4932-8886-f977fa5998ad)
 
 ## Features
 
@@ -94,17 +103,26 @@ npm run build
 npm run start
 ```
 
+![Screenshot 2025-04-26 130950](https://github.com/user-attachments/assets/31d1fe9c-3a21-48f0-9e0b-e46c58f2be50)
+
+![Screenshot 2025-04-26 131005](https://github.com/user-attachments/assets/5e20e1ef-7fff-47ba-a461-54f6e335e19d)
+
+![Screenshot 2025-04-26 131020](https://github.com/user-attachments/assets/26153259-d334-4004-8a52-10dea2c72a4e)
+
+![Screenshot 2025-04-26 131033](https://github.com/user-attachments/assets/2a122834-0bf8-4eea-8227-06f27b337940)
+
 ## Deployment
+
 
 The application is deployed using a containerized approach, ensuring consistent environment configuration across development, staging, and production.
 
 ## Contact
 
-For more information about GetWell.ai, please contact our team at info@getwell.ai or visit our website.
+gauravchauhan291005@gmail.com
 
 ## License
 
-© 2023 GetWell.ai. All rights reserved.
+
 
 ## Copyright
 
