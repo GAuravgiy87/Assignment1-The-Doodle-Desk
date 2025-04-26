@@ -105,3 +105,7 @@ For more information about GetWell.ai, please contact our team at info@getwell.a
 ## License
 
 © 2023 GetWell.ai. All rights reserved.
+
+## Copyright
+
+Copyright © 2025 by Gaurav Singh. All rights reserved.
